@@ -1,0 +1,32 @@
+/* Bootstrap Bio Styling */
+
+/* Why won't this work? */
+.navbar {
+    /* background-color: teal; worked, but not the font color */
+    background-color: white;
+}
+
+.navbar-nav {
+    background-color: white;
+}
+
+.navbar-brand {
+    background-color: white;
+}
+
+.navbar-light {
+    background-color: white;
+}
+
+.html {
+    background-image: url("C:/Users/Mike/Desktop/mliay81.github.io/Bootstrap-Portfolio/images/light_noise_diagonal_@2X.png");
+    background-repeat: repeat;
+    height: 100%;
+}
+
+.jumbotron {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #ffffff;
+}
+
