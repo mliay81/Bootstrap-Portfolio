@@ -50,3 +50,7 @@ input:hover {
 textarea:hover {
     background-color: rgb(187, 180, 180);
 }
+
+h1 {
+    font-family: "Helvetica";
+}
