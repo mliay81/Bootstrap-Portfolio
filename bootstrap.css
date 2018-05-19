@@ -33,6 +33,7 @@
 .container1 {
     margin-left: 354px;
     margin-right: 354px;
+    
 }
 
 .container2 {
@@ -53,4 +54,58 @@ textarea:hover {
 
 h1 {
     font-family: "Helvetica";
+}
+
+@media screen and (max-width: 980px) {
+   
+    .container2 {
+        margin: 0 auto;
+        width: 95%;
+        margin: 0 2.5%;
+    }
+
+    }
+
+@media screen and (max-width: 768px) {
+   
+    .container2 {
+        margin: 0 auto;
+        width: 95%;
+        margin: 0 2.5%;
+    }
+    }
+
+@media screen and (max-width: 640px) {
+
+ 
+    .container2 {
+        margin: 0 auto;
+        width: 95%;
+        margin: 0 2.5%;
+    }
+}
+
+@media screen and (max-width: 980px) {
+   
+    .container1 {
+        margin: 0 auto;
+        width: 95%;
+    }
+
+    }
+
+@media screen and (max-width: 768px) {
+   
+    .jumbotron {
+        margin: 0 auto;
+        width: 55%;
+    }
+    }
+
+@media screen and (max-width: 640px) {
+
+    .shrink {
+        margin: 0 auto;
+        width: 50%;
+    }
 }
