@@ -34,3 +34,19 @@
     margin-left: 354px;
     margin-right: 354px;
 }
+
+.container2 {
+    background-color: white;
+    padding: 15px;
+    width: 600px;
+    margin-left: 453px;  
+    border-radius: 5px;
+}
+
+input:hover {
+    background-color:rgb(187, 180, 180);
+}
+
+textarea:hover {
+    background-color: rgb(187, 180, 180);
+}
